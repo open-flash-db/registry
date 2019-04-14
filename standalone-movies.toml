@@ -1,0 +1,31 @@
+[[movies]]
+name = "homestuck-beta-1"
+uri = "https://www.homestuck.com/flash/hs/00001/00001.swf"
+mirrors = [
+    "https://web.archive.org/web/20190414213823if_/https://www.homestuck.com/flash/hs/00001/00001.swf"
+]
+homepage = "https://www.homestuck.com/beta/1"
+size = 10996
+hashes = {"sha256" = "537e12bfaae32d0fedb8503bfd9c47e5623179d0f22b643a1a48abbad2fe8140"}
+
+[[movies]]
+name = "homestuck-beta-2"
+uri = "https://www.homestuck.com/flash/hs/00002/00002.swf"
+mirrors = [
+    "https://web.archive.org/web/20190414215438if_/https://www.homestuck.com/flash/hs/00002/00002.swf"
+]
+homepage = "https://www.homestuck.com/beta/2"
+size = 24740
+hashes = {"sha256" = "b0e9b4828735cb5579ca68618e30cf6713b8f143a9bfb8535ea34492ac8ef3bc"}
+
+[[movies]]
+name = "moneyseize"
+uri = "https://chat.kongregate.com/gamez/0005/0047/live/MoneySeize.swf?kongregate_game_version=1253742463"
+mirrors = [
+    "https://web.archive.org/web/20190414220446if_/https://chat.kongregate.com/gamez/0005/0047/live/MoneySeize.swf?kongregate_game_version=1253742463"
+]
+description = "Colorful merciless platformer. Kongregate #50047."
+author = "Matt Thorson (http://www.mattmakesgames.com)"
+homepage = "https://www.kongregate.com/games/YMM315/moneyseize"
+size = 7417310
+hashes = {"sha256" = "4f84511e1cf3a2b64df40870de7f93014fca632eff121fa923a9115bcf88fba5"}
